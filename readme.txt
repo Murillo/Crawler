@@ -1,0 +1,1 @@
+Crawler developed only for study
